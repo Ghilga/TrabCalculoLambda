@@ -1,4 +1,4 @@
-# TrabCalculoLambda
+# trab-calculo-lambda
 Trabalho de teoria da computação sobre o Cálculo Lambda  
 
 Link para o simulador de Cálculo Lambda : http://www.inf.ufrgs.br/~rma/simuladores/lambda.html
